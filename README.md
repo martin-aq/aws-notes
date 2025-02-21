@@ -11,7 +11,7 @@ This repository serves as a structured collection of AWS-related notes covering 
 - [Compute Services](#compute-services)
 - [Storage & Databases](#storage--databases)
 - [Networking](#networking)
-- [Security & IAM](#security--iam)
+- [Security & Encryption](#security--encryption)
 - [Monitoring & Logging](#monitoring--logging)
 - [Exam Preparation](#exam-preparation)
 - [Useful Resources](#useful-resources)
